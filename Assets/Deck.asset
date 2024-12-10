@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 501fcd150d37cd24a8d48c725e30d14a, type: 3}
+  m_Name: Deck
+  m_EditorClassIdentifier: 
+  cards:
+  - cardName: Diamond_K
+    cardImage: {fileID: 21300000, guid: 684f1abf9fa44184bba3dc039fabcf3f, type: 3}
+    description: 
+  - cardName: Diamond_Q
+    cardImage: {fileID: 21300000, guid: b8a8d9a2c171c7e4ea6a6991ddefb62b, type: 3}
+    description: 
+  - cardName: Diamond_J
+    cardImage: {fileID: 21300000, guid: 2f168e3a78d569b488b864fd476adfe2, type: 3}
+    description: 
+  - cardName: Diamond_10
+    cardImage: {fileID: 21300000, guid: 386c4c18d8f74314d84020a03ac1b53a, type: 3}
+    description: 
+  - cardName: Diamond_9
+    cardImage: {fileID: 21300000, guid: b76c8acb8b74a1240b402341498e274d, type: 3}
+    description: 
+  - cardName: Diamond_8
+    cardImage: {fileID: 21300000, guid: 5132756cdfc6d1d44bc77d29f374d921, type: 3}
+    description: 
+  - cardName: Diamond_7
+    cardImage: {fileID: 21300000, guid: 4fd8f7dc0af555442be2b43c2732bdec, type: 3}
+    description: 
+  - cardName: Diamond_6
+    cardImage: {fileID: 21300000, guid: 6998c064441947146b1d235333b77caf, type: 3}
+    description: 
+  - cardName: Diamond_5
+    cardImage: {fileID: 21300000, guid: dfb71ad6554164b42844669dffa44fab, type: 3}
+    description: 
+  - cardName: Diamond_4
+    cardImage: {fileID: 21300000, guid: 6e3f0f589ea28e4489e832fe537b3745, type: 3}
+    description: 
+  - cardName: Diamond_3
+    cardImage: {fileID: 21300000, guid: f27c6703db5ff2242adf4721e4e52aac, type: 3}
+    description: 
+  - cardName: Diamond_2
+    cardImage: {fileID: 21300000, guid: 30bf40090f66a44419b0067eb2ec12be, type: 3}
+    description: 
+  - cardName: Diamond_1
+    cardImage: {fileID: 21300000, guid: c991336b125e2064480b22a84af00409, type: 3}
+    description: 
+  - cardName: Spade_K
+    cardImage: {fileID: 21300000, guid: 18d6b83e6c84fa246b2f8c6a5f414dcf, type: 3}
+    description: 
+  - cardName: Spade_Q
+    cardImage: {fileID: 21300000, guid: 3e6e0184d8d2d974aacb1449527ca5ae, type: 3}
+    description: 
+  - cardName: Spade_J
+    cardImage: {fileID: 21300000, guid: 742a68929a4224143a886128f1a35c89, type: 3}
+    description: 
+  - cardName: Spade_10
+    cardImage: {fileID: 21300000, guid: d7f53ec0f4ad877449c8d72ec05549ef, type: 3}
+    description: 
+  - cardName: Spade_9
+    cardImage: {fileID: 21300000, guid: a75fcc6e0f7944047b840904dca86d9f, type: 3}
+    description: 
+  - cardName: Spade_8
+    cardImage: {fileID: 21300000, guid: ef5d167bffd0b1e4988a76b70ec8e7d9, type: 3}
+    description: 
+  - cardName: Spade_7
+    cardImage: {fileID: 21300000, guid: dbb9c4f879ff07946a18e1e00decb295, type: 3}
+    description: 
+  - cardName: Spade_6
+    cardImage: {fileID: 21300000, guid: 95cd93017769f584e90a687fdf540956, type: 3}
+    description: 
+  - cardName: Spade_5
+    cardImage: {fileID: 21300000, guid: 05925e571ae3a4d4a8e5141d51e5b1fb, type: 3}
+    description: 
+  - cardName: Spade_4
+    cardImage: {fileID: 21300000, guid: ae10e5e7c26bf604c9cdf3ed18472d20, type: 3}
+    description: 
+  - cardName: Spade_3
+    cardImage: {fileID: 21300000, guid: 1c1c3f63d7436484c90f3be791a7ba61, type: 3}
+    description: 
+  - cardName: Spade_2
+    cardImage: {fileID: 21300000, guid: d15c22d4e92d89e47be54e53dd6b08a1, type: 3}
+    description: 
+  - cardName: Spade_1
+    cardImage: {fileID: 21300000, guid: b4c45ef63aafc614895bc1b6a26f623b, type: 3}
+    description: 
+  - cardName: Club_1
+    cardImage: {fileID: 21300000, guid: bb819f1664e1a1d4bb445bb3c53a2eaf, type: 3}
+    description: 
+  - cardName: Club_2
+    cardImage: {fileID: 21300000, guid: 07e93c79b8dbfad409660e8448c2fcc8, type: 3}
+    description: 
+  - cardName: Club_3
+    cardImage: {fileID: 21300000, guid: 3801fa4edbabe9e47b75072dc47d2bce, type: 3}
+    description: 
+  - cardName: Club_4
+    cardImage: {fileID: 21300000, guid: f11945b554b2442458c06e27d2f72494, type: 3}
+    description: 
+  - cardName: Club_5
+    cardImage: {fileID: 21300000, guid: 670037f3c4c1a7243859af58a34dc3a9, type: 3}
+    description: 
+  - cardName: Club_6
+    cardImage: {fileID: 21300000, guid: 2e663f83b6026d0458839913466ae24f, type: 3}
+    description: 
+  - cardName: Club_7
+    cardImage: {fileID: 21300000, guid: 1f481c72502e32648ae47d077aad4b55, type: 3}
+    description: 
+  - cardName: Club_8
+    cardImage: {fileID: 21300000, guid: f83220260fae5c6449b29809782a3a9e, type: 3}
+    description: 
+  - cardName: Club_9
+    cardImage: {fileID: 21300000, guid: e1d39824787d0204a80131d1c4137731, type: 3}
+    description: 
+  - cardName: Club_10
+    cardImage: {fileID: 21300000, guid: e017f440d6389824eab6d2acc16de281, type: 3}
+    description: 
+  - cardName: Club_J
+    cardImage: {fileID: 21300000, guid: ade02df5d8f4e1446a4c4852d382d800, type: 3}
+    description: 
+  - cardName: Club_Q
+    cardImage: {fileID: 21300000, guid: 20a90d21f268bf14db396465af63a449, type: 3}
+    description: 
+  - cardName: Club_K
+    cardImage: {fileID: 21300000, guid: faf93d4b642262a459ece9376c8f2738, type: 3}
+    description: 
+  - cardName: Heart_1
+    cardImage: {fileID: 21300000, guid: fb36e4c2b2aa415449d3027526d79172, type: 3}
+    description: 
+  - cardName: Heart_2
+    cardImage: {fileID: 21300000, guid: a11836cf729accd4eb49ea4dcf9db069, type: 3}
+    description: 
+  - cardName: Heart_3
+    cardImage: {fileID: 21300000, guid: 294b843021c1a594db7f20447ad7d615, type: 3}
+    description: 
+  - cardName: Heart_4
+    cardImage: {fileID: 21300000, guid: 682a9e788e2be1945b7fa3e54cd1380a, type: 3}
+    description: 
+  - cardName: Heart_5
+    cardImage: {fileID: 21300000, guid: 631e57bc38ad3d34798dac7e924784fc, type: 3}
+    description: 
+  - cardName: Heart_6
+    cardImage: {fileID: 21300000, guid: 15a0326b58f79e04e80fce0313b0c2ba, type: 3}
+    description: 
+  - cardName: Heart_7
+    cardImage: {fileID: 21300000, guid: 944ecaca47be9d647b12f30bb9d781bf, type: 3}
+    description: 
+  - cardName: Heart_8
+    cardImage: {fileID: 21300000, guid: 58e1e58901335d54a87e8fc4a0d08499, type: 3}
+    description: 
+  - cardName: Heart_9
+    cardImage: {fileID: 21300000, guid: a6a489a22deeff0408cdc31b628bf127, type: 3}
+    description: 
+  - cardName: Heart_10
+    cardImage: {fileID: 21300000, guid: e26d6a461fa5c2b40bb55cc633b3bd24, type: 3}
+    description: 
+  - cardName: Heart_J
+    cardImage: {fileID: 21300000, guid: 131ce004f18eecc4286c772d09769e7a, type: 3}
+    description: 
+  - cardName: Heart_Q
+    cardImage: {fileID: 21300000, guid: f12651df3477cba4c8ec093c06404239, type: 3}
+    description: 
+  - cardName: Heart_k
+    cardImage: {fileID: 21300000, guid: a82032bf5f5ab8446ac32c013d3a2f8e, type: 3}
+    description: 
